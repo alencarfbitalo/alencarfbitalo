@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Italo Alencar</h1>
 <h3 align="center"> Studying Internet Systems, Full Stack training at DigitalCollege school, Technology enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alencarfbitalo&label=Profile%20views&color=0e75b6&style=flat" alt="ItaloAlencar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alencarfbitalo&label=Profile%20views&color=0e75b6&style=flat" alt="alencarfbitalo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alencarfbitalo" alt="ItaloAlencar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alencarfbitalo" alt="alencarfbitalo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/alencarfbitalo" target="blank"><img src="https://img.shields.io/twitter/follow/alencarfbitalo?logo=twitter&style=for-the-badge" alt="alencarfbitalo" /></a> </p>
 
