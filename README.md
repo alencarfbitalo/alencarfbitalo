@@ -11,7 +11,7 @@
 
 - 🧑🏻‍🎓 Studying Internet Systems.
 
-- 📖 Today I'm specializing in front-end.
+- 📖 Today I'm specializing in Quality Assurance.
 
 - 🌱 I’m currently learning **How the life works!**
 
